@@ -1,3 +1,5 @@
-# CALC-ATTACK-2-REACT-RUST
+# SKIP KLASS ALGEBRA EDITION
 
-In high school i made a space invaders calc based game for my senior project, I didn't present it because I hated my teacher for being a pedo. Covered some of calc 1. Now version two will cover everything up to calc 2. Designed for future offspring so they can get good at math and skip class and hopefully focus on making cooler shit.
+Master Algebra. Skip the class. 
+
+Only the front ends will be shared on github, backends will be private on my gitlabs
